@@ -1,0 +1,101 @@
+ID_Componente,Tipo_Componente,Localizacao,Data_Instalacao,Status_Operacional,Incidentes_Detectados,Falsos_Positivos,Falsos_Negativos,Taxa_Precisao,Ultima_Manutencao,Proxima_Manutencao,Observacoes
+LEI-0001,Leitor RFID,Separação,2025-03-08,Em Atualização,21,11,9,65.6,2025-06-28,2025-11-12,Componente instalado para monitoramento de separação
+SOF-0002,Software,Docas,2025-01-27,Operacional,50,16,10,75.8,2025-06-21,2025-10-16,Componente instalado para monitoramento de recebimento
+LEI-0003,Leitor RFID,Expedição,2024-11-01,Em Manutenção,10,13,5,43.5,2025-02-16,2025-04-17,Componente instalado para monitoramento de separação
+LEI-0004,Leitor RFID,Armazenagem de Alto Valor,2024-01-12,Operacional,34,9,11,79.1,2024-06-20,2024-10-29,Componente instalado para monitoramento de recebimento
+SOF-0005,Software,Separação,2024-07-01,Em Manutenção,24,12,9,66.7,2024-11-01,2025-04-23,Componente instalado para monitoramento de expedição
+LEI-0006,Leitor RFID,Armazenagem Geral,2024-02-17,Falha Parcial,28,11,12,71.8,2024-05-12,2024-10-12,Componente instalado para monitoramento de transporte interno
+SEN-0007,Sensor IoT,Armazenagem Geral,2024-09-06,Operacional,11,13,2,45.8,2025-03-02,2025-06-18,Componente instalado para monitoramento de área externa
+LEI-0008,Leitor RFID,Separação,2025-03-26,Em Atualização,36,11,9,76.6,2025-05-25,2025-11-12,Componente instalado para monitoramento de recebimento
+SOF-0009,Software,Armazenagem de Alto Valor,2024-01-28,Falha Parcial,34,24,5,58.6,2024-05-18,2024-09-24,Componente instalado para monitoramento de separação
+SEN-0010,Sensor IoT,Docas,2024-01-26,Falha Parcial,20,18,10,52.6,2024-03-19,2024-06-15,Componente instalado para monitoramento de docas
+SEN-0011,Sensor IoT,Recebimento,2024-03-08,Em Atualização,18,6,9,75.0,2024-08-31,2025-02-02,Componente instalado para monitoramento de docas
+LEI-0012,Leitor RFID,Armazenagem de Alto Valor,2024-02-13,Inoperante,22,13,9,62.9,2024-04-16,2024-09-20,Componente instalado para monitoramento de separação
+SOF-0013,Software,Separação,2024-07-21,Operacional,27,25,14,51.9,2025-01-01,2025-04-02,Componente instalado para monitoramento de expedição
+SOF-0014,Software,Área Externa,2024-06-14,Falha Parcial,20,11,15,64.5,2024-10-27,2025-02-18,Componente instalado para monitoramento de separação
+LEI-0015,Leitor RFID,Área Externa,2024-06-25,Em Atualização,29,15,3,65.9,2024-10-11,2024-12-31,Componente instalado para monitoramento de transporte interno
+SEN-0016,Sensor IoT,Armazenagem Geral,2024-08-13,Operacional,9,11,5,45.0,2024-12-16,2025-03-05,Componente instalado para monitoramento de recebimento
+SEN-0017,Sensor IoT,Armazenagem Geral,2025-04-30,Falha Parcial,12,13,2,48.0,2025-08-25,2026-01-20,Componente instalado para monitoramento de transporte interno
+SOF-0018,Software,Expedição,2024-01-12,Em Atualização,36,14,13,72.0,2024-04-05,2024-06-30,Componente instalado para monitoramento de transporte interno
+SEN-0019,Sensor IoT,Armazenagem de Alto Valor,2024-12-21,Operacional,8,16,10,33.3,2025-01-31,2025-05-03,Componente instalado para monitoramento de expedição
+SEN-0020,Sensor IoT,Docas,2025-02-08,Falha Parcial,16,5,9,76.2,2025-03-12,2025-05-19,Componente instalado para monitoramento de área externa
+CÂM-0021,Câmera,Armazenagem Geral,2024-01-10,Falha Parcial,14,15,7,48.3,2024-04-08,2024-07-25,Componente instalado para monitoramento de transporte interno
+CÂM-0022,Câmera,Recebimento,2024-04-05,Operacional,11,10,8,52.4,2024-09-25,2025-03-22,Componente instalado para monitoramento de separação
+LEI-0023,Leitor RFID,Área Externa,2024-06-19,Falha Parcial,25,11,5,69.4,2024-07-23,2024-11-04,Componente instalado para monitoramento de expedição
+SEN-0024,Sensor IoT,Recebimento,2024-09-13,Em Atualização,16,5,6,76.2,2025-01-20,2025-07-12,Componente instalado para monitoramento de expedição
+SEN-0025,Sensor IoT,Docas,2024-03-18,Em Atualização,18,16,4,52.9,2024-05-09,2024-10-09,Componente instalado para monitoramento de separação
+SOF-0026,Software,Armazenagem de Alto Valor,2024-05-03,Em Manutenção,24,21,9,53.3,2024-08-25,2024-12-20,Componente instalado para monitoramento de armazenagem de alto valor
+SEN-0027,Sensor IoT,Armazenagem de Alto Valor,2025-03-17,Em Atualização,12,13,10,48.0,2025-05-20,2025-09-12,Componente instalado para monitoramento de armazenagem de alto valor
+LEI-0028,Leitor RFID,Armazenagem de Alto Valor,2024-02-04,Operacional,27,13,4,67.5,2024-04-21,2024-07-30,Componente instalado para monitoramento de área externa
+SOF-0029,Software,Separação,2024-07-29,Operacional,34,22,15,60.7,2024-11-06,2025-01-24,Componente instalado para monitoramento de armazenagem de alto valor
+SEN-0030,Sensor IoT,Recebimento,2024-01-14,Falha Parcial,16,11,5,59.3,2024-04-12,2024-09-06,Componente instalado para monitoramento de armazenagem geral
+SOF-0031,Software,Docas,2024-03-09,Inoperante,47,23,15,67.1,2024-07-12,2024-10-03,Componente instalado para monitoramento de transporte interno
+SEN-0032,Sensor IoT,Recebimento,2024-03-24,Falha Parcial,14,11,2,56.0,2024-08-05,2025-01-09,Componente instalado para monitoramento de docas
+SEN-0033,Sensor IoT,Transporte Interno,2025-01-15,Em Atualização,14,10,3,58.3,2025-03-31,2025-09-25,Componente instalado para monitoramento de transporte interno
+LEI-0034,Leitor RFID,Recebimento,2025-03-19,Em Atualização,24,8,9,75.0,2025-07-30,2026-01-05,Componente instalado para monitoramento de docas
+LEI-0035,Leitor RFID,Recebimento,2024-07-20,Em Atualização,29,14,12,67.4,2025-01-03,2025-05-10,Componente instalado para monitoramento de armazenagem geral
+SOF-0036,Software,Recebimento,2024-08-21,Em Atualização,17,15,13,53.1,2025-02-04,2025-05-25,Componente instalado para monitoramento de docas
+CÂM-0037,Câmera,Expedição,2024-04-07,Inoperante,14,9,7,60.9,2024-07-23,2024-12-29,Componente instalado para monitoramento de armazenagem de alto valor
+SOF-0038,Software,Transporte Interno,2024-05-30,Operacional,18,24,7,42.9,2024-10-25,2025-04-09,Componente instalado para monitoramento de armazenagem geral
+SEN-0039,Sensor IoT,Transporte Interno,2025-02-02,Operacional,25,8,8,75.8,2025-06-17,2025-09-26,Componente instalado para monitoramento de armazenagem de alto valor
+SOF-0040,Software,Armazenagem de Alto Valor,2024-10-29,Operacional,27,22,6,55.1,2025-01-31,2025-05-12,Componente instalado para monitoramento de armazenagem geral
+CÂM-0041,Câmera,Docas,2024-12-27,Em Atualização,19,12,6,61.3,2025-02-16,2025-06-23,Componente instalado para monitoramento de armazenagem de alto valor
+SOF-0042,Software,Armazenagem de Alto Valor,2024-10-08,Em Manutenção,39,9,7,81.2,2025-01-31,2025-06-12,Componente instalado para monitoramento de armazenagem de alto valor
+SEN-0043,Sensor IoT,Transporte Interno,2025-01-28,Falha Parcial,9,17,6,34.6,2025-05-17,2025-10-17,Componente instalado para monitoramento de armazenagem de alto valor
+CÂM-0044,Câmera,Transporte Interno,2025-04-05,Inoperante,9,5,1,64.3,2025-07-08,2025-09-07,Componente instalado para monitoramento de transporte interno
+CÂM-0045,Câmera,Transporte Interno,2024-11-07,Inoperante,20,5,4,80.0,2025-05-06,2025-09-27,Componente instalado para monitoramento de docas
+SOF-0046,Software,Separação,2024-02-10,Operacional,15,15,13,50.0,2024-05-21,2024-10-07,Componente instalado para monitoramento de armazenagem de alto valor
+SEN-0047,Sensor IoT,Expedição,2024-01-29,Falha Parcial,19,5,4,79.2,2024-03-07,2024-07-30,Componente instalado para monitoramento de armazenagem geral
+CÂM-0048,Câmera,Armazenagem de Alto Valor,2024-02-25,Inoperante,18,4,3,81.8,2024-06-06,2024-10-22,Componente instalado para monitoramento de área externa
+CÂM-0049,Câmera,Docas,2024-02-17,Operacional,29,6,6,82.9,2024-06-20,2024-12-11,Componente instalado para monitoramento de docas
+CÂM-0050,Câmera,Docas,2024-05-29,Em Atualização,20,4,2,83.3,2024-09-06,2024-12-17,Componente instalado para monitoramento de separação
+SEN-0051,Sensor IoT,Expedição,2024-11-09,Inoperante,9,7,10,56.2,2024-12-31,2025-05-01,Componente instalado para monitoramento de área externa
+LEI-0052,Leitor RFID,Transporte Interno,2024-09-26,Em Atualização,28,14,8,66.7,2024-11-28,2025-04-15,Componente instalado para monitoramento de transporte interno
+SOF-0053,Software,Armazenagem Geral,2025-02-17,Operacional,26,15,9,63.4,2025-05-07,2025-07-06,Componente instalado para monitoramento de transporte interno
+CÂM-0054,Câmera,Área Externa,2025-01-12,Falha Parcial,11,14,7,44.0,2025-05-27,2025-07-31,Componente instalado para monitoramento de separação
+CÂM-0055,Câmera,Armazenagem Geral,2024-11-23,Falha Parcial,11,13,5,45.8,2025-02-26,2025-08-06,Componente instalado para monitoramento de expedição
+LEI-0056,Leitor RFID,Recebimento,2025-01-27,Em Manutenção,10,6,8,62.5,2025-05-24,2025-09-11,Componente instalado para monitoramento de separação
+LEI-0057,Leitor RFID,Recebimento,2025-03-02,Em Manutenção,20,15,10,57.1,2025-07-31,2026-01-09,Componente instalado para monitoramento de transporte interno
+SEN-0058,Sensor IoT,Recebimento,2024-11-17,Em Atualização,22,14,9,61.1,2025-04-01,2025-09-26,Componente instalado para monitoramento de expedição
+LEI-0059,Leitor RFID,Área Externa,2024-10-11,Falha Parcial,27,5,6,84.4,2025-04-06,2025-08-31,Componente instalado para monitoramento de armazenagem geral
+SEN-0060,Sensor IoT,Armazenagem de Alto Valor,2024-05-23,Em Atualização,8,14,8,36.4,2024-11-05,2025-04-21,Componente instalado para monitoramento de docas
+SEN-0061,Sensor IoT,Docas,2024-10-31,Operacional,11,13,7,45.8,2024-12-08,2025-03-12,Componente instalado para monitoramento de transporte interno
+SEN-0062,Sensor IoT,Armazenagem de Alto Valor,2024-07-09,Operacional,22,13,5,62.9,2024-12-20,2025-03-28,Componente instalado para monitoramento de área externa
+CÂM-0063,Câmera,Transporte Interno,2025-02-02,Em Atualização,11,3,8,78.6,2025-07-11,2025-09-12,Componente instalado para monitoramento de armazenagem de alto valor
+SEN-0064,Sensor IoT,Armazenagem Geral,2024-06-23,Em Atualização,23,20,6,53.5,2024-10-14,2024-12-31,Componente instalado para monitoramento de armazenagem de alto valor
+SEN-0065,Sensor IoT,Recebimento,2025-01-05,Falha Parcial,9,18,8,33.3,2025-06-17,2025-08-30,Componente instalado para monitoramento de recebimento
+CÂM-0066,Câmera,Expedição,2024-06-19,Operacional,19,2,2,90.5,2024-11-29,2025-05-06,Componente instalado para monitoramento de expedição
+SEN-0067,Sensor IoT,Área Externa,2024-06-13,Inoperante,14,10,6,58.3,2024-09-21,2025-01-27,Componente instalado para monitoramento de armazenagem geral
+LEI-0068,Leitor RFID,Armazenagem Geral,2024-03-17,Em Manutenção,15,9,4,62.5,2024-04-19,2024-09-05,Componente instalado para monitoramento de área externa
+LEI-0069,Leitor RFID,Armazenagem Geral,2024-05-18,Falha Parcial,14,9,12,60.9,2024-08-18,2024-11-07,Componente instalado para monitoramento de área externa
+SOF-0070,Software,Docas,2024-01-26,Operacional,23,8,12,74.2,2024-03-08,2024-05-20,Componente instalado para monitoramento de armazenagem geral
+SOF-0071,Software,Área Externa,2024-07-19,Em Manutenção,26,22,14,54.2,2024-11-17,2025-02-24,Componente instalado para monitoramento de armazenagem geral
+SOF-0072,Software,Expedição,2024-10-17,Inoperante,23,10,12,69.7,2024-12-10,2025-04-07,Componente instalado para monitoramento de transporte interno
+SEN-0073,Sensor IoT,Armazenagem de Alto Valor,2025-04-30,Falha Parcial,15,8,6,65.2,2025-08-31,2025-12-19,Componente instalado para monitoramento de área externa
+SOF-0074,Software,Transporte Interno,2024-09-06,Inoperante,16,10,12,61.5,2024-11-03,2025-02-15,Componente instalado para monitoramento de armazenagem de alto valor
+LEI-0075,Leitor RFID,Armazenagem Geral,2025-01-28,Inoperante,21,14,12,60.0,2025-03-31,2025-08-03,Componente instalado para monitoramento de armazenagem geral
+LEI-0076,Leitor RFID,Docas,2024-10-11,Em Atualização,30,6,7,83.3,2025-03-26,2025-07-23,Componente instalado para monitoramento de docas
+SEN-0077,Sensor IoT,Área Externa,2024-11-13,Em Manutenção,15,9,9,62.5,2025-03-21,2025-05-28,Componente instalado para monitoramento de docas
+SOF-0078,Software,Armazenagem Geral,2024-10-17,Em Atualização,36,25,8,59.0,2024-12-30,2025-05-23,Componente instalado para monitoramento de transporte interno
+CÂM-0079,Câmera,Transporte Interno,2024-10-30,Em Manutenção,24,9,6,72.7,2025-04-20,2025-07-01,Componente instalado para monitoramento de expedição
+SOF-0080,Software,Recebimento,2024-02-05,Operacional,21,20,10,51.2,2024-07-10,2024-11-29,Componente instalado para monitoramento de separação
+SEN-0081,Sensor IoT,Expedição,2025-03-30,Inoperante,8,8,4,50.0,2025-08-22,2025-12-28,Componente instalado para monitoramento de transporte interno
+SEN-0082,Sensor IoT,Área Externa,2024-04-15,Operacional,18,13,6,58.1,2024-09-03,2025-02-01,Componente instalado para monitoramento de recebimento
+SOF-0083,Software,Recebimento,2025-03-09,Operacional,23,17,5,57.5,2025-07-11,2026-01-02,Componente instalado para monitoramento de área externa
+CÂM-0084,Câmera,Docas,2025-03-16,Falha Parcial,14,15,1,48.3,2025-06-14,2025-10-07,Componente instalado para monitoramento de docas
+SOF-0085,Software,Armazenagem de Alto Valor,2024-07-14,Em Manutenção,42,25,8,62.7,2024-09-26,2025-01-24,Componente instalado para monitoramento de docas
+LEI-0086,Leitor RFID,Recebimento,2025-03-06,Operacional,23,7,7,76.7,2025-05-07,2025-07-23,Componente instalado para monitoramento de recebimento
+SEN-0087,Sensor IoT,Docas,2025-01-04,Inoperante,23,17,4,57.5,2025-02-24,2025-05-12,Componente instalado para monitoramento de docas
+SEN-0088,Sensor IoT,Área Externa,2024-08-20,Em Manutenção,24,17,10,58.5,2025-01-12,2025-05-01,Componente instalado para monitoramento de armazenagem de alto valor
+SOF-0089,Software,Docas,2024-11-05,Em Atualização,15,23,8,39.5,2025-04-12,2025-07-15,Componente instalado para monitoramento de área externa
+CÂM-0090,Câmera,Transporte Interno,2024-01-20,Operacional,23,9,6,71.9,2024-03-18,2024-07-30,Componente instalado para monitoramento de armazenagem de alto valor
+LEI-0091,Leitor RFID,Transporte Interno,2024-08-26,Operacional,26,6,11,81.2,2024-10-17,2025-01-16,Componente instalado para monitoramento de expedição
+CÂM-0092,Câmera,Transporte Interno,2025-04-07,Em Atualização,15,10,1,60.0,2025-09-04,2025-12-31,Componente instalado para monitoramento de área externa
+SOF-0093,Software,Expedição,2024-06-29,Em Atualização,33,17,7,66.0,2024-08-07,2025-01-02,Componente instalado para monitoramento de expedição
+CÂM-0094,Câmera,Expedição,2024-11-18,Em Atualização,20,11,3,64.5,2025-05-13,2025-07-18,Componente instalado para monitoramento de recebimento
+LEI-0095,Leitor RFID,Expedição,2024-09-05,Falha Parcial,12,7,11,63.2,2024-10-24,2025-04-10,Componente instalado para monitoramento de armazenagem de alto valor
+LEI-0096,Leitor RFID,Armazenagem de Alto Valor,2024-05-20,Em Atualização,37,9,3,80.4,2024-07-17,2024-12-01,Componente instalado para monitoramento de armazenagem de alto valor
+SOF-0097,Software,Recebimento,2024-07-08,Falha Parcial,26,16,8,61.9,2024-12-09,2025-03-02,Componente instalado para monitoramento de armazenagem geral
+SEN-0098,Sensor IoT,Transporte Interno,2024-10-31,Em Manutenção,12,19,8,38.7,2025-03-08,2025-06-06,Componente instalado para monitoramento de separação
+LEI-0099,Leitor RFID,Transporte Interno,2024-01-28,Inoperante,30,9,4,76.9,2024-03-11,2024-05-31,Componente instalado para monitoramento de transporte interno
+LEI-0100,Leitor RFID,Docas,2024-08-31,Inoperante,33,13,6,71.7,2025-01-05,2025-06-01,Componente instalado para monitoramento de expedição
