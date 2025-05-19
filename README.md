@@ -1,6 +1,6 @@
 # Análise de Risco em Ambientes Logísticos
 
-![Dashboard Preview](https://dashboardrisco.streamlit.app/)
+https://dashboardrisco.streamlit.app/
 
 ## Sobre o Projeto
 
